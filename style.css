@@ -1,0 +1,86 @@
+.navbar-nav .nav-item .nav-link {
+    color: #0082da;
+}
+.navbar-nav .nav-item.active .nav-link,
+.navbar-nav .nav-item:hover .nav-link {
+    color: white;
+    background-color: #0082da;
+}
+
+.VLC{
+    width: 100px;
+    height: 50px;
+    background-image: url("https://images.videolan.org/images/logoBlue.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 20px;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #0082da;
+    border-color: #0082da;
+}
+.button-primary-override:hover, 
+.button-primary-override:active,
+.button-primary-override:focus,
+.button-primary-override:visited{
+    background-color: #0082da !important;
+    border-color: #0082da !important;
+    background-image: none !important;
+    border: 0 !important;
+}
+
+.dropdown-item{
+    color: #0082da;
+}
+
+.Link{
+    text-decoration: solid;
+}
+
+.card-title{
+    color: #0082da;
+    font-size: 28px;
+}
+
+.Download_Button{
+    background-color: #0082da;
+    height: 60px;
+    width: 180px;
+}
+.Download_Button_Arrow{
+    background-color: #0082da;
+    height: 60px;
+    width: 30px;
+}
+
+.Other_projects{
+    color: #0082da;
+    font-size: 28px;
+}
+
+.cards{
+    display: flex;
+}
+.For{
+    color: gray;
+    font-size: 18px;
+}
+
+.card{
+    border: none;
+}
+
+.card-titles{
+    color: gray;
+    font-size: 24px;
+}
+
+.Learn_more{
+    color: #0082da;
+}
+
+.Announcment{
+    color: #0082da;
+    text-decoration: none;
+}
